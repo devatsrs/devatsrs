@@ -38,6 +38,7 @@ With over 18 years of experience, I've successfully delivered solutions across d
 ![Fintech](https://placehold.co/200x80/000000/FFFFFF?text=Fintech)
 ![Hospitality](https://placehold.co/200x80/000000/FFFFFF?text=Hospitality)
 ![Healthcare](https://placehold.co/200x80/000000/FFFFFF?text=Healthcare)
+![IoT](https://placehold.co/200x80/000000/FFFFFF?text=Healthcare)
 
 
 --- 
@@ -72,8 +73,9 @@ Here are some of my notable projects. These showcase my skills in developing sca
 ## 📔 Enterprise Products
 | Name | Type | Used Applications | Short Description | URLs |
 |------|------|------------------|-------------------|------|
-| SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
+| SaaS for BMS | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/#bms) |
 | Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
+| SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
 | Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content management system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
 | Neon-Soft | ERP | PHP, Laravel, MSSQL | Telecom ERP with integrated systems | [Website](https://neon-soft.com) |
 | Price Donkey | SaaS | Python, AWS | Vendor price management system | [Demo](https://www.youtube.com/watch?v=LjG8qEBOSHU) |
