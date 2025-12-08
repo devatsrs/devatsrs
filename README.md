@@ -84,6 +84,7 @@ Here are some of my notable projects. These showcase my skills in developing sca
 ## 🔧 Tools, Plugins and Integrations
 | Title | Use | Link |
 |-------|-----|------|
+| Optergy BMS to AWS IoT Bridge | AWS IoT Core based BMS IoT device bridge | [GitHub](https://github.com/deven-sitapara/bms_bridge_aws_iot) |
 | Cloudscape Design Kit | AWS Cloudscape Design System based SaaS starter | [GitHub](https://github.com/deven-sitapara/cloudscape-design-system-start-kit) |
 | Carbon Design Kit | IBM Carbon Design System based SaaS starter | [GitHub](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit) |
 | MERN Messaging | Real-time messaging application template | [GitHub](https://github.com/deven-sitapara/mern-messaging/tree/main) |
