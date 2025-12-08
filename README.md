@@ -73,7 +73,7 @@ Here are some of my notable projects. These showcase my skills in developing sca
 ## 📔 Enterprise Products
 | Name | Type | Used Applications | Short Description | URLs |
 |------|------|------------------|-------------------|------|
-| SaaS for BMS | SaaS | NextJS SaaS for BMS ( Building Management System ) | Modern saas solution for building management system | [GitHub](https://github.com/deven-sitapara/#private-bms-repo) |
+| SaaS for BMS | SaaS | NextJS, IoT Core | Modern saas solution for building management system | [GitHub](https://github.com/deven-sitapara/#private-bms-repo) |
 | Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
 | SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
 | Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content management system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
