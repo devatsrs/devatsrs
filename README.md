@@ -74,11 +74,11 @@ Here are some of my notable projects. These showcase my skills in developing sca
 | Name | Type | Used Applications | Short Description | URLs |
 |------|------|------------------|-------------------|------|
 | Property Hub OS | SaaS | Typescript, RDS, Kafka, Redis,S3, AWS Cloud-watch | Multi-tenant SaaS platform concept for building facility management with IoT integration | [GitHub](https://github.com/deven-sitapara/PropertyHub-OS) |
-| Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
-| SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
-| Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content management system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
 | Neon-Soft | ERP | PHP, Laravel, MSSQL | Telecom ERP with integrated systems | [Website](https://neon-soft.com) |
+| Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
+| Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content management system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
 | Price Donkey | SaaS | Python, AWS | Vendor price management system | [Demo](https://www.youtube.com/watch?v=LjG8qEBOSHU) |
+| SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
 | RepDonkey | SaaS | PHP, MySQL | Sales Agency management solution | [Website](https://repdonkey.com/) |
 
 ## 🔧 Tools, Plugins and Integrations
